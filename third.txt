@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is FA01-7B8D
+
+ Directory of C:\Users\ACER\OneDrive\Desktop\learn_git_again
+
+22/08/2023  20:26    <DIR>          .
+22/08/2023  19:38    <DIR>          ..
+22/08/2023  20:26                 0 third.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  438.501.416.960 bytes free
